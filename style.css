@@ -139,7 +139,7 @@ h1.white {
     color: #EEEEEE;
     text-decoration: none;
   } 
-  .cours {
+  .cours{
     text-decoration: none;
     color: #460516;
   }
@@ -148,3 +148,19 @@ h1.white {
     color:#460516;
     text-decoration: none;
   } 
+  .tg_link:hover, .header_link:focus, .header_link:active{
+    color:#460516;
+    text-decoration: none;
+  } 
+  .tg_link {
+    text-decoration: none;
+    color: #460516;
+  }
+  .hub_link:hover, .header_link:focus, .header_link:active{
+    color:#460516;
+    text-decoration: none;
+  } 
+  .hub_link {
+    text-decoration: none;
+    color: #460516;
+  }
