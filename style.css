@@ -164,3 +164,8 @@ h1.white {
     text-decoration: none;
     color: #460516;
   }
+  li {
+    list-style-type: none;
+    
+  }
+  
