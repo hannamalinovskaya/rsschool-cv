@@ -1,0 +1,150 @@
+* {
+  box-sizing: border-box;
+}
+html {
+    scroll-behavior: smooth; 
+  }
+body{
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-size: 24px;
+   line-height: 37.5px;
+   font-weight: normal;
+   color: #000000;
+   background-color:#EEEEEE;
+}
+.header_nav{
+  background-color: #75001d;
+  font-size: 20px;
+  font-weight: 200;
+}
+.intro{
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 500px;
+  width: 100%;
+  background: url(img/background.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.photo {
+  border-radius: 400px; 
+  border: 3px solid #75001d; 
+  width: 200px;
+}
+figure {
+  text-align: center;
+  padding-top: 110px;
+}
+figcaption {
+  padding-top: 25px;
+  color: #460516;
+  font-size: 400;
+  font-weight: 500;
+}
+.subscribe {
+  text-align: center;
+}
+.fa {
+  color: #460516;
+}
+.btn {
+  width: 70px;
+}
+p.begining{
+  color: #460516;
+  font-size: 400;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 30px;
+}
+hr{
+  width:"80%";
+  background-color:#460516;
+}
+.progress-bar {
+  background-color:#89364c;
+  color:#460516;
+}
+.white p{
+color: #460516;
+font-size: 20px;
+line-height: 30px;
+font-weight: 350;
+text-indent: 15px;
+
+}
+h1.white {
+  color: #460516;
+  font-size: 25px;
+  font-weight: 300;
+
+}
+.red {
+  background-color:#75001d;
+  color: #EEEEEE;
+}
+.red p{
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 350;
+  text-indent: 15px;
+
+  }
+  h1.red {
+    font-size: 25px;
+    font-weight: 300;
+
+  }
+  section{
+    padding-top: 15px;
+  }
+  .progress{
+
+    margin-right: 10px;
+  }
+  section.code {
+    padding-bottom: 15px;
+
+  }
+  
+  section.skills {
+    padding-bottom: 15px;
+
+  }
+  .footer {
+    background-color:#75001d; 
+    width: 100%;
+    padding-bottom: 20px;
+  }
+  
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    color: #fff;
+    padding-top: 20px;
+    font-size: 20px;
+  }
+  .git {
+    text-decoration: none;
+    color: #EEEEEE;
+    padding: 20px;
+  }
+  .git_link:hover, .header_link:focus, .header_link:active{
+    opacity: .75;
+    color: #EEEEEE;
+    text-decoration: none;
+  } 
+  .cours {
+    text-decoration: none;
+    color: #460516;
+  }
+  .cours:hover, .header_link:focus, .header_link:active{
+    opacity: .75;
+    color:#460516;
+    text-decoration: none;
+  } 
