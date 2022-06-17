@@ -52,7 +52,7 @@ figcaption {
 .btn {
   width: 70px;
 }
-p.begining{
+h1.begining{
   color: #460516;
   font-size: 400;
   font-weight: 300;
@@ -75,7 +75,7 @@ font-weight: 350;
 text-indent: 15px;
 
 }
-h1.white {
+h2.white {
   color: #460516;
   font-size: 25px;
   font-weight: 300;
@@ -92,7 +92,7 @@ h1.white {
   text-indent: 15px;
 
   }
-  h1.red {
+  h2.red {
     font-size: 25px;
     font-weight: 300;
 
